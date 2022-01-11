@@ -5,7 +5,7 @@ This is where all the design files for the **Ginger Wash Plant** is saved.
 
 # Folders
 
- - **CAD** - Cad files developped through Fusion360
+ - **CAD** - Cad files developed through Fusion360
  - **Renderings** - Images of the CAD model
  - **Parts List** - Google Sheet with all the parts needed
 
