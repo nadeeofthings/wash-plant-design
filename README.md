@@ -1,7 +1,7 @@
 ﻿# Ginger Wash Plant
 
 This is where all the design files for the **Ginger Wash Plant** is saved. 
-![Floor Plan V6](https://raw.githubusercontent.com/nadeeofthings/wash-plant-design/main/Renderings/FloorPlan%20v6%20thumb.png)
+![Floor Plan V6](https://raw.githubusercontent.com/nadeeofthings/wash-plant-design/main/Renderings/FloorPlan%20v6.png)
 
 # Folders
 
